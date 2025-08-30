@@ -35,12 +35,6 @@ Here’s a quick demo of the game in action:
 
 <br>
 
-## 📸 Screenshots
-### Start Screen
-![Start](screenshots/start.png)
-
-<br>
-
 ## 🎯 Learning Outcomes
 This project helped me practice and understand:
 
