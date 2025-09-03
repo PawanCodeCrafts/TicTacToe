@@ -33,7 +33,7 @@ TicTacToe/ <br>
 Here’s a quick view of the game in:
 <!-- ![Gameplay](screenshots/gameplay.gif) -->
 ![GameBoard](screenshots/img1.png)
-![PlayerNames assign](screenshots/img1.png)
+![PlayerNames assign](screenshots/img2.png)
 ![Gameplay](screenshots/img3.png)
 ![Game win](screenshots/img4.png)
 
