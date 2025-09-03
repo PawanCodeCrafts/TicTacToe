@@ -1,7 +1,7 @@
-# 🎮 TicTacToe - Python Console Game
+# 🎮 Tic Tac Toe (Python - Jupyter Notebook)
 
-A simple **TicTacToe game in Python** built using **functions, loops, and basic logic**.  
-This project demonstrates the use of **functions, conditionals, loops, and data structures** in Python while creating a fun interactive game.  
+Welcome to Tic Tac Toe, a timeless classic reimagined in Python inside a Jupyter Notebook.
+This project showcases the power of functions, conditions, loops, and randomization to create an engaging two-player game.  
 
 <br>
 
@@ -18,20 +18,25 @@ This project demonstrates the use of **functions, conditionals, loops, and data 
 
 ## 📂 Project Structure
 
-tictactoe/<br>
-├── tictactoe.py &nbsp;  &nbsp;  # Main game file<br>
-├── README.md  &nbsp; &nbsp;  # Project description<br>
-└── screenshots/<br>
-&nbsp; &nbsp; &nbsp; &nbsp;  ├── gameplay.gif  &nbsp;  &nbsp; # Gameplay demo<br>
-&nbsp; &nbsp; &nbsp; &nbsp;  └── images &nbsp;   &nbsp; # Sample board screenshot
+TicTacToe/ <br>
+├──tictactoe.ipynb &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; # main game implementation <br>
+├── screenshots/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; # Game screenshots <br>
+&nbsp; &nbsp; &nbsp; &nbsp;  ├── img1.png &nbsp;  &nbsp; &nbsp;  &nbsp; # Sample board screenshot <br>
+&nbsp; &nbsp; &nbsp; &nbsp;  └── img2.png <br>
+&nbsp; &nbsp; &nbsp; &nbsp;  └── img3.png <br> 
+├── README.md &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; # Project documentation <br>
 
 <br>
 
 
-## 🎥 Gameplay Demo
-Here’s a quick demo of the game in action:
+## 🖼️ Screenshots
+Here’s a quick view of the game in:
+<!-- ![Gameplay](screenshots/gameplay.gif) -->
+![GameBoard](screenshots/img1.png)
+![PlayerNames assign](screenshots/img1.png)
+![Gameplay](screenshots/img3.png)
+![Game win](screenshots/img4.png)
 
-![Gameplay](screenshots/gameplay.gif)
 
 <br>
 
@@ -45,8 +50,36 @@ This project helped me practice and understand:
 
 <br> 
 
-## 🙌 Contribution
-  Pull requests are welcome. Feel free to fork the repo and create your own versions (e.g., GUI version, AI opponent, etc.).
+## 🚀 Getting Started
 
-👩‍💻 Author
-Made with ❤️ by PawanCodeCrafts
+1. Clone this repository:
+ ```
+git clone https://github.com/PawanCodeCrafts/TicTacToe.git
+```
+```
+  cd TicTacToe
+```
+2. Open the project in Jupyter Notebook / JupyterLab.
+3. Run the tictactoe.ipynb notebook step by step.
+
+## ⚙️ Requirements
+
+-Python 3.x
+-Jupyter Notebook or JupyterLab
+-Install Jupyter (if not already installed):
+  ```
+   pip install notebook
+```
+
+
+## 📜 License
+   This project is licensed under the MIT License.
+
+## Contact
+**Contact Me**
+- **Email:** kpawanpreet2003@gmail.com
+- **LinkedIn:** [linkedin.com/in/pawanpreet](https://www.linkedin.com/in/pawanpreet-2003/)
+- **GitHub:** [github.com/pawancodecrafts](https://github.com/pawancodecrafts)
+
+
+💡 For suggestions or feedback, feel free to open an issue in this repository!
