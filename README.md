@@ -32,10 +32,10 @@ TicTacToe/ <br>
 ## 🖼️ Screenshots
 Here’s a quick view of the game in:
 <!-- ![Gameplay](screenshots/gameplay.gif) -->
-![GameBoard](screenshots/img1.png)
-![PlayerNames assign](screenshots/img2.png)
-![Gameplay](screenshots/img3.png)
-![Game win](screenshots/img4.png)
+[Gameboard dispaly]![GameBoard](screenshots/img1.png)
+[Assign players]![PlayerNames assign](screenshots/img2.png)
+[Gameplay]![Gameplay](screenshots/img3.png)
+[Winners and scores ]![Game win](screenshots/img4.png)
 
 
 <br>
@@ -70,10 +70,6 @@ git clone https://github.com/PawanCodeCrafts/TicTacToe.git
   ```
    pip install notebook
 ```
-
-
-## 📜 License
-   This project is licensed under the MIT License.
 
 ## Contact
 **Contact Me**
