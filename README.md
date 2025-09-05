@@ -30,12 +30,23 @@ TicTacToe/ <br>
 
 
 ## 🖼️ Screenshots
-Here’s a quick view of the game in:
+Here’s a quick view of the game :
 <!-- ![Gameplay](screenshots/gameplay.gif) -->
-[Gameboard dispaly]![GameBoard](screenshots/img1.png)
-[Assign players]![PlayerNames assign](screenshots/img2.png)
-[Gameplay]![Gameplay](screenshots/img3.png)
-[Winners and scores ]![Game win](screenshots/img4.png)
+ <h4> Game display</h4>
+ 
+![GameBoard](screenshots/img1.png)
+
+<h4> Assigning player names </h4>
+
+![PlayerNames assign](screenshots/img2.png)
+
+<h4> While Gameplayy</h4>
+
+![Gameplay](screenshots/img3.png)
+
+<h4> Winner and scoreboard annoucement</h4>
+
+![Game win](screenshots/img4.png)
 
 
 <br>
@@ -45,8 +56,8 @@ This project helped me practice and understand:
 
  - Functions → breaking code into reusable parts
  - Loops → for repeated gameplay flow
- -  Conditionals → to check winning/draw logic
- -  Dictionaries → for maintaining scoreboard
+ - Conditionals → to check winning/draw logic
+ - Dictionaries → for maintaining scoreboard
 
 <br> 
 
